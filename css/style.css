@@ -1,0 +1,16 @@
+body
+{
+    background-color: #24353f;
+}
+.container h1
+{
+    color: #17a2b8;
+}
+.container a
+{
+    text-decoration: none;
+}
+.container a:hover
+{
+    text-decoration: underline;
+}
